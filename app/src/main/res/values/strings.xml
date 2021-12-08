@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottomNavReto</string>
+    <string name="title_image">Imagen</string>
+    <string name="title_web">WebView</string>
+    <string name="title_info">Acerca De</string>
+</resources>
